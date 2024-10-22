@@ -1,7 +1,6 @@
 <p align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=argon-dev22&theme=flag_india" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=argon-dev22&theme=flag_india" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=argon-dev22&theme=flag_india&utcOffset=8" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=argon-dev22&theme=flag_india" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=argon-dev22&theme=flag_india" />
