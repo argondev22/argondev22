@@ -9,7 +9,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,npm,prisma,react,redux,next,webpack,vite,jest,php,laravel,tailwind,bootstrap,aws,linux,ubuntu,debian,redhat,bash,docker,nginx,supabase,firebase,mongodb,mysql,postgres,github,git,figma" />
   
 ## My Favorites
-  <img src="https://skillicons.dev/icons?i=react,next,aws,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=react,next,aws,docker,linux,kubernetes" />
 <hr />
 <p align="left">
   <a href="https://github.com/argon-dev22/argon-dev22/">
