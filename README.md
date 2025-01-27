@@ -6,7 +6,7 @@
 </div>
   
 ## My Favorites
-  <img src="https://skillicons.dev/icons?i=typescript,react,next,aws,docker,kubernetes,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,typescript,react,next,linux" />
 <hr />
 <p align="left">
   <a href="https://github.com/argon-dev22/argon-dev22/">
