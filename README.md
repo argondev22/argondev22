@@ -4,12 +4,9 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=argon-dev22&theme=onedark" />
   <img src="https://github-profile-trophy.vercel.app/?username=argon-dev22&theme=onedark" />
 </div>
-
-## My Scope
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,npm,prisma,react,redux,next,webpack,vite,jest,php,laravel,tailwind,bootstrap,aws,linux,ubuntu,debian,redhat,bash,docker,kubernetes,nginx,supabase,firebase,mongodb,mysql,postgres,github,git,figma" />
   
 ## My Favorites
-  <img src="https://skillicons.dev/icons?i=react,next,aws,docker,kubernetes,linux" />
+  <img src="https://skillicons.dev/icons?i=typescript,react,next,aws,docker,kubernetes,linux" />
 <hr />
 <p align="left">
   <a href="https://github.com/argon-dev22/argon-dev22/">
