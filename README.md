@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=argon-dev22&theme=onedark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=argon-dev22&layout=donut&theme=onedark" />
-  <img src="https://github-profile-trophy.vercel.app/?username=argon-dev22&theme=onedark" />
 </div>
   
 ## My Favorites
