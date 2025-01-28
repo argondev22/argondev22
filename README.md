@@ -28,5 +28,3 @@
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=argon-dev22&theme=onedark&layout=compact" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argon-dev22&theme=onedark&layout=compact" />
 </div>
-
-## Cer
