@@ -22,6 +22,7 @@
 
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=argon-dev22&theme=onedark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argon-dev22&theme=onedark&layout=compact" />
+  <img alt="Top Langs" height="170px" width="50%" src="https://github-readme-stats.vercel.app/api?username=argon-dev22&theme=onedark&layout=compact" />
+  <img alt="github stats" height="170px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argon-dev22&theme=onedark&layout=compact" />
+  <img alt="Trophy" width="100%" src="https://github-profile-trophy.vercel.app/?username=argon-dev22&theme=onedark&column=7" />
 </div>
