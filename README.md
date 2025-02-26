@@ -17,7 +17,7 @@
 <br>
 
 ## 🌱 Favorites
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,typescript,react,next,linux,github" />
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,typescript,next,go,linux,github" />
 <br>
 
 ## 🏃‍♀️ Activities
