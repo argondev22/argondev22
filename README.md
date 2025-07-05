@@ -22,8 +22,8 @@
 
 ## 🏅 Certifications
 <div align="left">
-  <img height="100" width="100" src="https://images.credly.com/size/160x160/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />
-  <img height="100" width="100" src="https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" />
+  <img height="110" width="110" src="https://images.credly.com/size/160x160/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />
+  <img height="110" width="110" src="https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" />
 </div>
 <br>
 
