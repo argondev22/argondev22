@@ -20,9 +20,18 @@
 <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,typescript,next,go,linux,github" />
 <br>
 
+## Certifications
+<div align="left">
+  <img height="150" width="150" src="https://images.credly.com/size/160x160/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />
+  <img height="150" width="150" src="https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" />
+</div>
+<br>
+
 ## 🏃‍♀️ Activities
 <div align="left"> 
   <img alt="Top Commit Langs" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=argon-dev22&theme=onedark&exclude=php" />
   <img alt="github stats" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=argon-dev22&theme=onedark" />
   <img alt="Trophy" height="170px" src="https://github-profile-trophy.vercel.app/?username=argon-dev22&theme=onedark&column=7&title=-Stars,-Reviews" />
 </div>
+
+
