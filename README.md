@@ -20,7 +20,7 @@
 <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,typescript,next,go,linux,github" />
 <br>
 
-## Certifications
+## 🏅 Certifications
 <div align="left">
   <img height="150" width="150" src="https://images.credly.com/size/160x160/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />
   <img height="150" width="150" src="https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" />
