@@ -20,7 +20,7 @@
 <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,typescript,next,go,linux,github" />
 <br>
 
-## 🏅 Certifications
+## 🏅 Certification
 <div align="left">
   <img height="110" width="110" src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F286189%2F1ba586fb-a551-ae20-5905-93fbaa55a0fd.png?ixlib=rb-4.0.0&auto=format&gif-q=60&q=75&w=1400&fit=max&s=0bd20efdcfac97f61245531899c932ad" />
   <img height="110" width="110" src="https://images.credly.com/size/160x160/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />
