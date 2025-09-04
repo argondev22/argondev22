@@ -32,5 +32,5 @@
 <div align="left"> 
   <img alt="Top Commit Langs" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=argon-dev22&theme=onedark&exclude=php" />
   <img alt="github stats" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=argon-dev22&theme=onedark" />
-  <img alt="Trophy" height="170px" src="https://github-profile-trophy.vercel.app/?username=argon-dev22&theme=onedark&column=7&title=-Stars,-Reviews" />
+  <img alt="Trophy" height="170px" src="https://github-profile-trophy.vercel.app/?username=argon-dev22&theme=onedark&column=7&title=-Stars,-Reviews,-Followers" />
 </div>
