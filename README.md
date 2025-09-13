@@ -2,10 +2,10 @@
   <a href="https://github.com/argondev22/argondev22/">
     <img src="https://komarev.com/ghpvc/?username=argondev22" alt="argondev22" />
   </a>
-  <a href="https://x.com/argon0903">
+  <a href="https://x.com/argondev22">
     <img height="20" src="https://img.shields.io/twitter/follow/argondev22?label=Twitter&logo=twitter&style=flat" />
   </a>
-  <a href="https://qiita.com/argon0122">
+  <a href="https://qiita.com/argondev22">
     <img height="20" src="https://qiita-badge.apiapi.app/s/argondev22/posts.svg" />
   </a>
 </div>
