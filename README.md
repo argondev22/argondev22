@@ -17,7 +17,7 @@
 <br>
 
 ## 🌱 Favorites
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,typescript,next,go,linux,github" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,kubernetes,github,typescript,next,go,linux" />
 <br>
 
 ## 🏅 Certifications
