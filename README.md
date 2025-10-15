@@ -41,7 +41,10 @@
 ## 📚 Learnings
 <div align="left">
   <a href="https://www.udemy.com/user/cun-lai-biao-ya/">
-    <img src="https://img.shields.io/badge/Udemy-A435F0?logo=udemy" alt="Udemy Profile" />
+    <img src="https://img.shields.io/badge/Udemy-Profile-4c4c4c?logo=udemy&logoColor=white&labelColor=A435F0" alt="Udemy Profile" />
+  </a>
+  <a href="https://github.com/users/argondev22/projects/21">
+    <img src="https://img.shields.io/badge/GitHub_Projects-MyLearings-4c4c4c?logo=github&logoColor=white&labelColor=181717" alt="GitHub Projects" />
   </a>
 </div>
 <br>
