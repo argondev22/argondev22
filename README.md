@@ -23,14 +23,13 @@
 ```typescript
 const argondev22 = {
   role: "Web & Cloud Engineer",
-  currentlyLearning: ["Go", "Kubernetes", "Cloud Architecture"],
-  interests: ["DevOps", "Infrastructure as Code", "Modern Web Development"],
+  currentlyLearning: ["Cloud Service", "DevOps", "Vibe Coding"],
+  interests: ["DevOps", "SRE", "Infrastructure as Code", "Modern Web Development"],
   motto: "Continuous learning and improvement"
 };
 ```
 
 - 🧑‍💻 Passionate about building scalable web applications and cloud infrastructure
-- 🌱 Currently diving deep into **Go** and **Kubernetes**
 - ☁️ Experienced in **AWS** and **GCP** cloud platforms
 - 🚀 Always exploring new technologies and best practices
 <br>
