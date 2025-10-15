@@ -23,8 +23,8 @@
 ```typescript
 const argondev22 = {
   role: "Web & Cloud Engineer",
-  currentlyLearning: ["Cloud Service", "DevOps", "Vibe Coding"],
-  interests: ["DevOps", "SRE", "Infrastructure as Code", "Modern Web Development"],
+  currentlyLearning: ["DevOps", "Vibe Coding", "Cloud Platform"],
+  interests: ["Cloud Platform", "Platform Engineering", "DevOps", "SRE", "Infrastructure as Code", "Modern Web Development"],
   motto: "Continuous learning and improvement"
 };
 ```
