@@ -73,7 +73,7 @@ const argondev22 = {
 </div>
 
 <div align="center">
-  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=argondev22&theme=darkhub&no-frame=true&column=7&title=-Stars,-Reviews,-Followers&margin-w=10" />
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=argondev22&theme=darkhub&no-frame=true&column=7&title=-Stars,-Reviews,-Followers" />
 </div>
 
 <br>
