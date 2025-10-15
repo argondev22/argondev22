@@ -31,6 +31,13 @@
 </div>
 <br>
 
+## 🏃‍♀️ Activities
+<div align="left"> 
+  <img alt="Top Commit Langs" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=argondev22&theme=onedark&exclude=php" />
+  <img alt="github stats" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=argondev22&theme=onedark" />
+  <img alt="Trophy" height="170px" src="https://github-profile-trophy.vercel.app/?username=argondev22&theme=onedark&column=7&title=-Stars,-Reviews,-Followers" />
+</div>
+
 ## 📚 Learnings
 <div align="left">
   <a href="https://www.udemy.com/user/cun-lai-biao-ya/">
@@ -38,10 +45,3 @@
   </a>
 </div>
 <br>
-
-## 🏃‍♀️ Activities
-<div align="left"> 
-  <img alt="Top Commit Langs" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=argondev22&theme=onedark&exclude=php" />
-  <img alt="github stats" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=argondev22&theme=onedark" />
-  <img alt="Trophy" height="170px" src="https://github-profile-trophy.vercel.app/?username=argondev22&theme=onedark&column=7&title=-Stars,-Reviews,-Followers" />
-</div>
