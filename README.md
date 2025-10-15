@@ -31,6 +31,9 @@
 </div>
 <br>
 
+## Learnings
+https://www.udemy.com/user/cun-lai-biao-ya/
+
 ## 🏃‍♀️ Activities
 <div align="left"> 
   <img alt="Top Commit Langs" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=argondev22&theme=onedark&exclude=php" />
