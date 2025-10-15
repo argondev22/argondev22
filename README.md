@@ -1,12 +1,15 @@
 <div align="right">
-  <a href="https://github.com/argondev22/argondev22/">
-    <img src="https://komarev.com/ghpvc/?username=argondev22" alt="argondev22" />
+  <a href="https://x.com/argondev22/">
+    <img src="https://img.shields.io/badge/%40argondev22-4c4c4c?logo=x&logoColor=ffffff&label=X&labelColor=000000" alt="argondev22" />
   </a>
-  <a href="https://x.com/argondev22">
-    <img height="20" src="https://img.shields.io/twitter/follow/argondev22?label=Twitter&logo=twitter&style=flat" />
+   <a href="https://www.linkedin.com/in/argondev22/">
+    <img src="https://img.shields.io/badge/%40argondev22-4c4c4c?logo=inspire&logoColor=ffffff&label=LinkedIn&labelColor=0A66C2" alt="argondev22" />
   </a>
-  <a href="https://qiita.com/argondev22">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/argondev22/posts.svg" />
+  <a href="https://qiita.com/argondev22/">
+    <img src="https://img.shields.io/badge/%40argondev22-4c4c4c?logo=qiita&logoColor=ffffff&label=Quiita&labelColor=7CFC00" alt="argondev22" />
+  </a>
+    <a href="https://github.com/argondev22/argondev22/">
+    <img src="https://img.shields.io/badge/%40argondev22-4c4c4c?logo=speakerdeck&logoColor=ffffff&label=SpeackerDeck&labelColor=009287" alt="argondev22" />
   </a>
 </div>
 
