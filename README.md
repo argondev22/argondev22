@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Welcome to my GitHub Profile!</h1>
+  <h1>Welcome to my GitHub Profile!</h1>
   <p>
     <a href="https://x.com/argondev22/">
       <img src="https://img.shields.io/badge/%40argondev22-000000?style=for-the-badge&logo=x&logoColor=ffffff" alt="X" />
@@ -43,10 +43,10 @@ const argondev22 = {
 <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,kubernetes,linux" />
 
 ### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=typescript,go,next,nodejs,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=typescript,nodejs,next,react,tailwind,go" />
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=github,git,vscode,figma,postman,grafana" />
+<img src="https://skillicons.dev/icons?i=github,git,notion" />
 
 </div>
 
