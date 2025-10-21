@@ -78,16 +78,6 @@ const argondev22 = {
 
 <br>
 
-## 🌟 Recent Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=argondev22&theme=tokyo-night&hide_border=true&area=true)](https://github.com/argondev22)
-
-</div>
-
-<br>
-
 ## 📚 Continuous Learning
 
 <div align="center">
