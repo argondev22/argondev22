@@ -66,6 +66,7 @@ const argon = {
   <img height="120" width="120" src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F286189%2F1ba586fb-a551-ae20-5905-93fbaa55a0fd.png?ixlib=rb-4.0.0&auto=format&gif-q=60&q=75&w=1400&fit=max&s=0bd20efdcfac97f61245531899c932ad" />
   <img height="120" width="120" src="https://images.credly.com/size/160x160/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />
   <img height="120" width="120" src="https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" />
+  <img height="120" width="120" src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" />
 </div>
 
 <br>
@@ -105,4 +106,3 @@ const argon = {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=argondev22&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </div>
-
