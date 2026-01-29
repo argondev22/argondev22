@@ -67,6 +67,7 @@ const argon = {
   <img height="120" width="120" src="https://images.credly.com/size/160x160/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />
   <img height="120" width="120" src="https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" />
   <img height="120" width="120" src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" />
+  <img height="120" width="120" src="https://images.credly.com/size/220x220/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" />
 </div>
 
 <br>
