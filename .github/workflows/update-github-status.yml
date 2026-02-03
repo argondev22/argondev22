@@ -26,11 +26,8 @@ jobs:
           EXCLUDE: "php"
       
       - name: Generate Trophy Card
-        uses: soulteary/github-profile-trophy-action@v1.0.0
-        with:
-          options: 'username=${{ github.repository_owner }}&theme=darkhub&no-frame=true&column=7&title=-Stars,-Followers'
-          path: profile-summary-card-output/trophy.svg
-          token: ${{ secrets.GH_PAT }}
+        run: |
+          curl -o profile-summary-card-output/trophy.svg "https://github-profile-trophy.vercel.app/?username=${{ github.repository_owner }}&theme=darkhub&no-frame=true&column=7&title=-Stars,-Followers"
       
       - name: Commit cards
         run: |
