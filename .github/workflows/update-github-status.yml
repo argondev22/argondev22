@@ -24,6 +24,7 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           EXCLUDE: "php"
+          AUTO_PUSH: false
       
       - name: Generate Trophy Card
         run: |
