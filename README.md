@@ -75,8 +75,8 @@ const argon = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img alt="Top Languages" height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=argondev22&theme=github_dark&exclude=php" />
-  <img alt="GitHub Stats" height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=argondev22&theme=github_dark" />
+  <img alt="Top Languages" height="180px" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+  <img alt="GitHub Stats" height="180px" src="./profile-summary-card-output/github_dark/3-stats.svg" />
 </div>
 
 <div align="center">
@@ -84,7 +84,7 @@ const argon = {
 </div>
 
 <div align="center">
-  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=argondev22&theme=darkhub&no-frame=true&column=7&title=-Stars,-Followers" />
+  <img alt="GitHub Trophies" src="./profile-summary-card-output/trophy.svg" />
 </div>
 
 <br>
