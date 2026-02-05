@@ -83,9 +83,11 @@ const argon = {
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=argondev22&theme=github-dark-blue&hide_border=true" />
 </div>
 
+<!-- 
 <div align="center">
   <img alt="GitHub Trophies" src="./profile-summary-card-output/trophy.svg" />
 </div>
+-->
 
 <br>
 
