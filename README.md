@@ -46,11 +46,11 @@ const argon = {
 
 <img src="https://skillicons.dev/icons?i=go,python,typescript,nodejs,react" />
 
+<!-- 
 ### Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=github,git,notion" />
 
-<!-- 
 ### AI Tools & Assistants
 
 <span style="display: inline-block; margin: 0 5px;">
