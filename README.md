@@ -42,7 +42,7 @@ const argon = {
 <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,kubernetes,linux" />
 
 ### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=typescript,nodejs,next,react,tailwind,go" />
+<img src="https://skillicons.dev/icons?i=go,python,typescript,nodejs,react" />
 
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=github,git,notion" />
