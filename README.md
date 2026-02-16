@@ -39,15 +39,20 @@ const argon = {
 <div align="center">
 
 ### Cloud & Infrastructure
+
 <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,kubernetes,linux" />
 
 ### Languages & Frameworks
+
 <img src="https://skillicons.dev/icons?i=go,python,typescript,nodejs,react" />
 
 ### Tools & Platforms
+
 <img src="https://skillicons.dev/icons?i=github,git,notion" />
 
+<!-- 
 ### AI Tools & Assistants
+
 <span style="display: inline-block; margin: 0 5px;">
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/Genspark-FF6B35?style=for-the-badge&logo=spark&logoColor=white" alt="Genspark" />
@@ -55,6 +60,7 @@ const argon = {
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot" />
   <img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="NotebookLM" />
 </span>
+-->
 
 </div>
 
