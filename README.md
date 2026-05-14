@@ -30,7 +30,7 @@ const argon = {
 ```
 
 - 🧑‍💻 Passionate about building scalable web applications and cloud infrastructure
-- ☁️ Experienced in **AWS** and **GCP** cloud platforms
+- ☁️ Experienced in **AWS** and **Google Cloud** cloud platforms
 - 🚀 Always exploring new technologies and best practices
 <br>
 
