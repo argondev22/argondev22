@@ -22,7 +22,7 @@
 
 ```typescript
 const argon = {
-  bio: "Software Engineer | Cloud Engineer",
+  bio: "Solution Architect",
   currentlyLearning: ["DevOps", "Vibe Coding", "Cloud Platform"],
   interests: ["Cloud Platform", "Platform Engineering", "DevOps", "SRE", "Infrastructure as Code", "System Architecture", "Modern Web Development"],
   motto: "Continuous learning and improvement"
