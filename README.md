@@ -4,7 +4,7 @@ I'm a Solutions Architect at [Classmethod](https://classmethod.jp/), focusing on
 
 I’m particularly deep into [Amazon Bedrock](https://aws.amazon.com/bedrock/), building production-grade, agentic AI systems.
 
-I write about AWS, Claude, and my latest tech discoveries over on [Developers.IO](https://dev.classmethod.jp/). Take a look! 👀
+I write about AWS, Claude, and my latest tech discoveries over on [Developers.IO](https://dev.classmethod.jp/). Take a look!
 
 <!-- プロフェッショナル風 ver. -->
 <!-- I’m a Solutions Architect at Classmethod, specializing in AWS and Anthropic's Claude to design cloud and generative AI solutions.
