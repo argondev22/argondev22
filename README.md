@@ -1,6 +1,6 @@
 ### Hi, I'm argon 👋
 
-I'm a Solutions Architect at [Classmethod](https://classmethod.jp/), focusing on building cloud and generative AI solutions with [AWS](https://aws.amazon.com/) and [Anthropic's Claude](https://www.anthropic.com/claude).
+I'm a Solutions Architect at [Classmethod](https://classmethod.jp/), focusing on building cloud and generative AI solutions with [AWS](https://aws.amazon.com/) and [Anthropic Claude](https://www.anthropic.com/claude).
 
 I’m particularly deep into [Amazon Bedrock](https://aws.amazon.com/bedrock/), building production-grade, agentic AI systems.
 
