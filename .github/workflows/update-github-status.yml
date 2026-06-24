@@ -1,40 +1,40 @@
-name: Update GitHub Stats
+# name: Update GitHub Stats
 
-on:
-  schedule:
-    - cron: "0 3 * * *"
-  workflow_dispatch:
+# on:
+#   schedule:
+#     - cron: "0 3 * * *"
+#   workflow_dispatch:
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
     
-    permissions:
-      contents: write
+#     permissions:
+#       contents: write
     
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GH_PAT }}
+#     steps:
+#       - uses: actions/checkout@v4
+#         with:
+#           token: ${{ secrets.GH_PAT }}
       
-      - name: Generate Profile Summary Cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
-          EXCLUDE: "php"
-          AUTO_PUSH: false
+#       - name: Generate Profile Summary Cards
+#         uses: vn7n24fzkq/github-profile-summary-cards@release
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+#         with:
+#           USERNAME: ${{ github.repository_owner }}
+#           EXCLUDE: "php"
+#           AUTO_PUSH: false
       
-      - name: Generate Trophy Card
-        run: |
-          curl -o profile-summary-card-output/trophy.svg "https://github-profile-trophy.vercel.app/?username=${{ github.repository_owner }}&theme=darkhub&no-frame=true&column=7&title=-Stars,-Followers"
+#       - name: Generate Trophy Card
+#         run: |
+#           curl -o profile-summary-card-output/trophy.svg "https://github-profile-trophy.vercel.app/?username=${{ github.repository_owner }}&theme=darkhub&no-frame=true&column=7&title=-Stars,-Followers"
       
-      - name: Commit cards
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update README stats cards"
-          git pull --rebase
-          git push
+#       - name: Commit cards
+#         run: |
+#           git config user.name "github-actions[bot]"
+#           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+#           git add .
+#           git diff --quiet && git diff --staged --quiet || git commit -m "Update README stats cards"
+#           git pull --rebase
+#           git push

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 200" width="860" height="200" role="img" aria-label="Certifications placeholder">
+  <rect x="2" y="2" width="856" height="196" rx="16" fill="#0d1117" stroke="#FF9900" stroke-width="2" stroke-dasharray="10 8"/>
+  <text x="430" y="92" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#e6edf3">🏅 Certifications</text>
+  <text x="430" y="128" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#7d8590">placeholder — replace assets/certifications.svg with your own badge image</text>
+</svg>
